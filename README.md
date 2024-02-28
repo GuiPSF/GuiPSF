@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbpxxqqvps4h91.gif" alt="profile-animation"/>
+<img src="https://i.redd.it/bpxxqqvps4h91.gif" alt="profile-animation"/>
 
 ###

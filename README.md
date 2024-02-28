@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Guilherme and I'm a programmer, from Minas Gerais / Brazil</h2>
 
-
-
-###
-
-<img align="center" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
-
 ###
 
 <div align="center">
@@ -13,7 +7,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiPSF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+
 ###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+
+###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

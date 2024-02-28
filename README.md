@@ -1,4 +1,25 @@
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a programmer, from Minas Gerais/Brazil</h2>
+<h2 align="center">About Me</h2>
+
+###
+
+<h3 align="left">Hi 👋! My name is Guilherme and I'm a programmer, from Minas Gerais/Brazil</h3>
+
+
+###
+
+<p align="left">Hello! My name is Guilherme Ferreira, and i'm a FrontEnd Developer. My hobbies are programming and gaming, and i'm 
+    always trying to learn something new and making new personal projets.
+</p>
+
+###
+
+<h2 align="center">My Skills 🖥️</h2>
+
+###
+
+<a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
 
 ###
 

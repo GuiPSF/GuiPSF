@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a programmer, from Minas Gerais/Brazil</h2>
+<h2 align="left">Hi 👋! My name is Guilherme and I'm a developer, from Minas Gerais/Brazil</h2>
 
 
 ###

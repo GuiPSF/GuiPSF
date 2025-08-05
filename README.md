@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Hello! My name is Guilherme Ferreira, and i'm a FrontEnd Developer. My hobbies are programming and gaming, and i'm 
+<p align="left">Hello! My name is Guilherme Ferreira, and i'm a FullStack Developer. My hobbies are programming and gaming, and i'm 
     always trying to learn something new and making new personal projets.
 </p>
 
@@ -105,3 +105,4 @@
 <img src="https://i.redd.it/bpxxqqvps4h91.gif" alt="profile-animation"/>
 
 ###
+
